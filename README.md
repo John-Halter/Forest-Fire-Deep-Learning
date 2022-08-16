@@ -28,7 +28,7 @@ Something I wanted to include in this project was a machine learning approach to
 ___
 The model was created in the Forest_Fire_Deep_Learning notebook. To create this single input with a multi-output model I used the keras functional API. This allows me to link a logistic regression model and a linear regresison model using the same inputs. After some data scaling and outlier removal I created each individual model and then with the functional API I linked and specified the outputs I want. The outline of the model is shown below:
 <p align="center">
-  <img src="https://github.com/John-Halter/Forest-Fire-Deep-Learning/blob/main/double_model.png" width="600" />
+  <img src="https://github.com/John-Halter/Forest-Fire-Deep-Learning/blob/main/Images/double_model.png" width="600" />
 </p>
 Using this model I also used KFold selection to increase the trainign and testing on the dataset since we have a small amount of data. This allowed us to get a better idea at how the model was doing for both types of regressions.
 ### 3. Results
