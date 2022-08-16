@@ -33,7 +33,7 @@ compensate for the lack of data. The regression lines help clear some of the var
 From these plots it still looks to seem that they are trending upward. Increasing the number of iterations can show that
 
 <p align="center">
-  <img src="https://github.com/John-Halter/Image_Classification/blob/main/images/model_accuracy_loss_plot50.png" width="700" />
+  <img src="https://github.com/John-Halter/Forest-Fire-Deep-Learning/blob/main/double_model.png" width="700" />
 </p>
 
 With the number of epochs increased to 50 we see more of a plateau in the average accuracy of ~90%. 
