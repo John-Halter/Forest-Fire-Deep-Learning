@@ -1,5 +1,5 @@
 # Forest-Fire-Deep-Learning
-#### A classification and prediction forest fire model using Tensorflow, Keras and Pycharm
+#### A classification and prediction forest fire model using Tensorflow, Keras and Jupyter
 #### Created by John Halter
 
 ## Description of Project
@@ -57,7 +57,7 @@ From the machine learning approach we saw a classifying accuracy of ~60% from th
 ### How To Use Project
 ___
 
-The project spans out using several Jupyter Notebooks. The first one that should be used is the Data_Cleaning notebook. With this ran, any of the other three notebooks can be used.
+The project spans out using several Jupyter Notebooks. The first one that should be used is the Data_Cleaning notebook. With this, any of the other three notebooks can be accessed and ran.
 
 ### Improvements To Be Made
 ___
