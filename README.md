@@ -63,3 +63,4 @@ The project spans out using several Jupyter Notebooks. The first one that should
 ___
 
 - [ ] Use on a larger dataset
+- [ ] Change os functionality for saving plots to work for any system
