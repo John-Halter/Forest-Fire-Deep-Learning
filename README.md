@@ -30,7 +30,8 @@ The model was created in the Forest_Fire_Deep_Learning notebook. To create this 
 <p align="center">
   <img src="https://github.com/John-Halter/Forest-Fire-Deep-Learning/blob/main/Images/double_model.png" width="600" />
 </p>
-Using this model I also used KFold selection to increase the trainign and testing on the dataset since we have a small amount of data. This allowed us to get a better idea at how the model was doing for both types of regressions.
+Using this model I also used KFold selection to increase the training and testing on the dataset since we have a small amount of data. This allowed us to get a better idea at how the model was doing for both types of regressions.
+
 ### 3. Results
 ___
 From the machine learning approach we saw a classifying accuracy of ~60% from the logistic regression and as for the linear regression we acheived an R-Squared value of ~0.27-0.32 based on the type of selection used. The logistic regression was very similar to the machine leanring approach achieving ~60% accuracy. Although the logistic regression was similar among approaches the linear regresison was not. The deep learning approach got a 0.82 R-Squared value as opposed to ~0.27-0.32. This gives us hope that using this single model we can classify and predict at  the same time saving time and resources allowing us to better fight forest fires. The plots are shown below:
