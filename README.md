@@ -34,7 +34,7 @@ Using this model I also used KFold selection to increase the training and testin
 
 ### 3. Results
 ___
-From the machine learning approach we saw a classifying accuracy of ~60% from the logistic regression and as for the linear regression we acheived an R-Squared value of ~0.27-0.32 based on the type of selection used. The logistic regression was very similar to the machine leanring approach achieving ~60% accuracy. Although the logistic regression was similar among approaches the linear regresison was not. The deep learning approach got a 0.82 R-Squared value as opposed to ~0.27-0.32. This gives us hope that using this single model we can classify and predict at  the same time saving time and resources allowing us to better fight forest fires. The plots are shown below:
+From the machine learning approach we saw a classifying accuracy of ~60% from the logistic regression and as for the linear regression we achieved an R-Squared value of ~0.27-0.32 based on the type of selection used. The logistic regression was very similar to the machine learning approach achieving ~60% accuracy. Although the logistic regression was similar among approaches the linear regression was not. The deep learning approach got a 0.82 R-Squared value as opposed to ~0.27-0.32. This gives us hope that using this single model we can classify and predict at  the same time saving time and resources allowing us to better fight forest fires. The plots are shown below:
 
 **Classification Plots**:
 
